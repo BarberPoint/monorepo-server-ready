@@ -1,2 +1,1 @@
-<h2 align="center">FunkyRead</h2>
-<h3 align="center">A book inventory manager</h3>
+<h3 align="center">Mono Repository - Server Ready</h3>
